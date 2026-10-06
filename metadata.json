@@ -1,0 +1,6 @@
+{
+  "name": "THEKINGGEMS VIDEO JOINER",
+  "description": "Combine multiple AI-generated video clips and images into one final professional MP4 video locally in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
